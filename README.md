@@ -12,3 +12,9 @@ input N be the number of students, denoted by 0, 1, 2, ..., N − 1. First, impl
 
 6.powerofNumber.java is to calculates x ^ n by recursion. NOT use Math.pow. Let x be any real number and n be any positive integer.  
 
+7.Mynotebook.java is to create simple notebook window, can edit text and save a new file.  
+
+8.Mymouse.java can trace mouse's poistion and click.  
+
+
+9.Guess4number.java is to let user guess 4 numbers, if the positon and number are correct, it will show how many A, such as 4A0B. if only the number is included in the answer, it will show how many B, such as 0A4B.  
